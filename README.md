@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
+  <img src="blob:https://helloqart.imagineers.studio/1cb07097-27b5-4a7f-91d0-25dcbc58e00a" width="100"/>
 </div>
 <!-- badges for social network -->
 <div id="badges" align="center">
