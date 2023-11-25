@@ -93,6 +93,12 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valerii69&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Valerii69&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!--
 **Valerii69/Valerii69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
