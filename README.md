@@ -1,6 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/> -->
+  
+   <img src= https://media.giphy.com/media/YYT1W7oFNWnpYyNzSI/giphy.gif width="100"/>
 </div>
 <!-- badges for social network -->
 <div id="badges" align="center">
