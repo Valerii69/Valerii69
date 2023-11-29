@@ -23,7 +23,7 @@
 </h1>
 
 <!-- hero -->
-### About Me :
+### 💼 About Me :
 I am a Full Stack Developer from Ukraine,  Kyiv.
 - :open_book: I have learned React, Java Script, HTML5, NODE, TypeScript, CSS3, SCSS, SASS.
 - :open_book: Love studing and sharing knowledge.
