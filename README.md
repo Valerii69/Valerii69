@@ -1,8 +1,11 @@
-### Hi there 👋
+
 <div id="header" align="center">
-  <img src="blob:https://helloqart.imagineers.studio/1cb07097-27b5-4a7f-91d0-25dcbc58e00a" width="100"/>
+<!--   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/> -->
+  
+   <img src= https://media.giphy.com/media/YYT1W7oFNWnpYyNzSI/giphy.gif width="100"/>
 </div>
 <!-- badges for social network -->
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/valerii-viun-32410380/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,12 +23,16 @@
 </h1>
 
 <!-- hero -->
-### About Me :
+### 💼 About Me :
 I am a Full Stack Developer from Ukraine,  Kyiv.
 - :open_book: I have learned React, Java Script, HTML5, NODE, TypeScript, CSS3, SCSS, SASS.
 - :open_book: Love studing and sharing knowledge.
+- :open_book: Additionally, I am familiar with Agile and Scrum methodologies.
+- :open_book: My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, and Node.js.
 - :open_book: Diving is one of my favourite hobbies.
-- :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-viun-32410380/)
+
+
+  🌐 **Languages** : Ukrainian - native | English - elementary
 
 ---
 ### 💼 Languages and Tools
@@ -93,6 +100,12 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valerii69&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Valerii69&bg_color=000000&color=ffffff&line=2eb830&point=05ff22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!--
 **Valerii69/Valerii69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
