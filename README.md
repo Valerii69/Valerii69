@@ -53,23 +53,8 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 <img src="https://img.shields.io/badge/nodejs-%49B137.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-
-  
+ 
   </div>
-  
-<!--
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
--->
-  <!--
-</td>-->
-<!-- <td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
-  
-</td></tr></table> -->
 
 <br />
 
@@ -79,10 +64,7 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="26" height="26"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="26" height="26" alt="Vue" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="26" height="26" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="26" height="26" alt="NextJs" /></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="26" height="30"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="26" height="26" alt="TailwindCSS" /></a>
-
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="26" height="30"/></a>
 
 </div>
 
