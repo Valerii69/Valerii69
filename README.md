@@ -25,7 +25,7 @@
 <!-- hero -->
 ### 💼 About Me :
 I am a Full Stack Developer from Ukraine,  Kyiv.
-- :open_book: I have learned React, Java Script, HTML5, NODE, Next.JS, Taiwind, TypeScript, CSS3, SCSS, SASS.
+- :open_book: I have learned React, Java Script, HTML5, NODE, Next.JS, Taiwind, TypeScript, CSS3, SCSS, SASS. Next.JS,
 - :open_book: Love studing and sharing knowledge.
 - :open_book: Additionally, I am familiar with Agile and Scrum methodologies.
 - :open_book: My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, Next.JS, Taiwind, and Node.js.
@@ -53,6 +53,7 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 <img src="https://img.shields.io/badge/nodejs-%49B137.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/MobX-FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white" alt="MobX Badge" />
  
   </div>
 
