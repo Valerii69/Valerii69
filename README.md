@@ -61,10 +61,6 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
   <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
 </a>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </a>
