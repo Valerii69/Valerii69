@@ -124,8 +124,6 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 <div style="align: left; width: 50%;">
 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="26" height="26"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="26" height="26" alt="Vue" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="26" height="26" alt="TypeScript" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/irinavn2011/react-native-logo-768x890.png?updatedAt=1687875595721" title="React Native" alt="React Native" width="26" height="30"/></a>
 
 </div>
