@@ -108,6 +108,8 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 <a href="https://mobx.js.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/MobX-FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white" alt="MobX" />
 </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="26" height="26" alt="Vue" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="26" height="26" alt="TypeScript" /></a>
 
  
   </div>
