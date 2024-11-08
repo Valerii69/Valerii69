@@ -28,6 +28,7 @@ I am a Full Stack Developer from Ukraine,  Kyiv.
 - :open_book: I have learned React, Java Script, HTML5, NODE, Taiwind, TypeScript, CSS3, SCSS, SASS, Next.JS, VueJS
 - :open_book: Love studing and sharing knowledge.
 - :open_book: Additionally, I am familiar with Agile and Scrum methodologies.
+- :open_book: Master's degree in project management (PMBoK).
 - :open_book: My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JavaScript, React, Next.JS, Taiwind, and Node.js.
 - :open_book: Diving is one of my favourite hobbies.
 
