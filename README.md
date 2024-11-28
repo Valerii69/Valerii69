@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">
-  Hi, welcome to my GitHub!
+  Hi, welcome to my Repositories!
 
 </h1>
 
